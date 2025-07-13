@@ -30,3 +30,4 @@ C:\Nemeno\ASPNET\tutorial\ContosoPizza\obj\Debug\net8.0\refint\ContosoPizza.dll
 C:\Nemeno\ASPNET\tutorial\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 C:\Nemeno\ASPNET\tutorial\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Nemeno\ASPNET\tutorial\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\Nemeno\ASPNET\tutorial\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
