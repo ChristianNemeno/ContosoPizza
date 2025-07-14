@@ -1,4 +1,4 @@
-using ConsotoPizza.Models;
+using ContosoPizza.Models;
 
 namespace ContosoPizza.Services;
 
