@@ -38,3 +38,6 @@ Accept: application/json
 
 ###
 
+DELETE {{ContosoPizza_HostAddress}}/pizza/3
+
+###
